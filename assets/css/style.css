@@ -24,3 +24,31 @@
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+.buffe {
+margin: 30px;
+background-color: yellow;
+}
+
+.slide1 { 
+  margin: 0,0,0,-15;
+  text-align: justify;
+  padding: 0,30,0,30px;
+  color: blueviolet;
+  font-size: 15;
+  background-color: white;
+}
+
+.slide2 { 
+  margin: 0,0,0,15;
+  color: blueviolet;
+  font-size: 15;
+  background-color: yellow;
+}
+
+.slide3 { 
+  margin: 0,0,0,15;
+  color: blueviolet;
+  font-size: 15;
+  background-color: yellow;
+}
