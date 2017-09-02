@@ -26,8 +26,9 @@
 }
 
 .buffe {
-margin: 30px;
-background-color: yellow;
+ margin: 30px;
+ background-image: url("../images/lesl_back.jpg");
+/* background-color: yellow; */
 }
 
 .slide1 { 
@@ -37,18 +38,30 @@ background-color: yellow;
   color: blueviolet;
   font-size: 15;
   background-color: white;
+  background-image: url("../images/lesl_back.jpg");
 }
 
 .slide2 { 
   margin: 0,0,0,15;
   color: blueviolet;
   font-size: 15;
-  background-color: yellow;
+  background-image: url("../images/risl_back.jpg");
 }
 
-.slide3 { 
-  margin: 0,0,0,15;
+.moda { 
+  margin: 0,0,0,-15;
+  text-align: justify;
+  padding: 0,30,0,30px;
   color: blueviolet;
   font-size: 15;
-  background-color: yellow;
+  background-color: white;
+  background-image: url("../images/mo_back.jpg");
 }
+
+
+
+
+main {
+background-image: url("../images/background.jpg");
+}
+
