@@ -10,7 +10,7 @@ height: 100%;
 }
 
 .modal{
-  background: 15%;
+  background:rgba(255,255,255, 0.33);
   position: fixed;
   max-width: 100%; 
   max-height: 100%;
@@ -35,6 +35,13 @@ padding : 20px 20px 10px 20px;
 border: .3px solid gray;
 background-color: blue 35%;
 }
+
+.modalfooter {
+  padding : 20px 20px 10px 20px;
+  border: .3px solid gray;
+  background-color: blue 35%;
+  }
+  
 
 .modal-footer {
   background: 15%;
@@ -89,7 +96,7 @@ background-color: blue 35%;
 .flex-item {
   background: tomato;
   border-radius: 20%;
-  padding: 35px;
+  padding: 50px;
   width: 80px;
   height: 80px;
   margin-top: 15px;
