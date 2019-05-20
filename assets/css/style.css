@@ -5,6 +5,12 @@ background-size: 100% 100%;
 height: 100%;
 }
 
+
+.fixed-action-btn {
+  padding-right: 30px;
+  padding-bottom: 50px;
+}
+
 .backdrop{
    background-color: rgb(0, 81, 128);
 }
@@ -54,6 +60,7 @@ background-color: blue 35%;
   /* transform: translate(-50%, -50%); */
   /* top: 50%;
   left: 50%; */
+  
   float: left;
   margin: auto;
   padding: 10px 10px 10px 10px;
@@ -62,6 +69,22 @@ background-color: blue 35%;
   transition: 0.3s;
   border-radius: 12px;
   border: 3px solid rgb(0,  81, 128);
+
+
+  background: tomato;
+  border-radius: 20%;
+  padding: 50px;
+  width: 80px;
+  height: 80px;
+  margin-top: 15px;
+  line-height: 250px;
+  color: white;
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center;
+
+
+
 }
 
 .iCard:hover {
