@@ -7,8 +7,15 @@ height: 100%;
 
 
 .fixed-action-btn {
-  padding-right: 30px;
-  padding-bottom: 50px;
+  padding-right: 35px;
+  padding-bottom: 15px;
+  padding-top:30px;
+}
+
+
+.btn-floating{
+  padding-right: 35px;
+  padding-bottom: 15px;
 }
 
 .backdrop{
